@@ -1,4 +1,4 @@
-# 📊 description while 
+# 📊 Tweet Sentiment Analysis
 
 ## 📌 Project Overview
 
